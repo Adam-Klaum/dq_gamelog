@@ -1,0 +1,8 @@
+name: dq_gamelog
+dependencies:
+- python=3
+- numpy
+- pandas
+- seaborn
+- matplotlib
+- jupyter
